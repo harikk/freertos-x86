@@ -9,4 +9,4 @@ sh link.sh
 sh grub.sh
 
 # run it in qemu
-# qemu-system-x86_64 -cdrom MyOS.iso
+qemu-system-x86_64 -cdrom MyOS.iso
