@@ -2,7 +2,7 @@ reset
 
 sh rtos.sh
 
-sh kernel.sh
+# sh kernel.sh
 
 sh link.sh
 
